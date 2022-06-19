@@ -1,6 +1,6 @@
 <strong><h1><center> 👋 Hi, I’m @zaqiikhwan </center></h1></strong>
-- 👀 I’m interested in front-end and back-end development.
-- 🌱 I’m currently learning Java, HTML, CSS, and Golang.
+👀 I’m interested in front-end and back-end development.
+🌱 I’m currently learning Java, HTML, CSS, and Golang.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqiikhwan&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
