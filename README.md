@@ -1,5 +1,6 @@
 <strong><h1><center> 👋 Hi, I’m @zaqiikhwan </center></h1></strong>
 👀 I’m interested in front-end and back-end development.
+<br>
 🌱 I’m currently learning Java, HTML, CSS, and Golang.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
