@@ -11,7 +11,7 @@ I’m currently learning Golang and SQL for Backend Development and have interes
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zaqiikhwan&theme=blue-green&hide_border=true&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br> -->
 <img src="https://github-readme-stats.vercel.app/api?username=zaqiikhwan&title_color=ffffff&bg_color=1d2a3a&text_color=5BCDEC&hide_border=true&count_private=true" style="width:400px">
-<img alt="zaqiikhwan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqiikhwan&amp;langs_count=8&amp;count_private=true&amp;layout=compact&amp;title_color=ffffff&amp;theme=react&amp;hide_border=true&amp;bg_color=1d2a3a" style="width:400px">
+<img alt="zaqiikhwan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaqiikhwan&langs_count=12&count_private=true&layout=compact&title_color=ffffff&theme=react&hide_border=true&bg_color=1d2a3a" style="width:400px">
 
 
 <!---
